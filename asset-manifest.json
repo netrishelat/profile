@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/netrishelat/profile/static/css/main.1ddd4748.css",
+    "main.js": "/netrishelat/profile/static/js/main.095f7a28.js",
+    "static/js/453.acca0757.chunk.js": "/netrishelat/profile/static/js/453.acca0757.chunk.js",
+    "static/media/Netri Shelat Resume - 2024-25.pdf": "/netrishelat/profile/static/media/Netri Shelat Resume - 2024-25.384f353636ecc77aa8d5.pdf",
+    "static/media/profile-pic.jpg": "/netrishelat/profile/static/media/profile-pic.0835159223730dc8ec6f.jpg",
+    "index.html": "/netrishelat/profile/index.html",
+    "main.1ddd4748.css.map": "/netrishelat/profile/static/css/main.1ddd4748.css.map",
+    "main.095f7a28.js.map": "/netrishelat/profile/static/js/main.095f7a28.js.map",
+    "453.acca0757.chunk.js.map": "/netrishelat/profile/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ddd4748.css",
+    "static/js/main.095f7a28.js"
+  ]
+}
